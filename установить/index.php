@@ -8,7 +8,7 @@ require_once(R.'/system/functions.php');
 <!DOCTYPE html>
 <html lang="ru-RU">
 <head>
-<title>Installing NomiCMS </title>
+<title>Install NomiCMS </title>
 <meta name="viewport" content="width=device-width" />
 <link href="/design/styles/default/style.css" rel="stylesheet" type="text/css" />
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
